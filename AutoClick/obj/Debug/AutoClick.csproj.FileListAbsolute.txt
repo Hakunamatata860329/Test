@@ -1,0 +1,15 @@
+C:\Users\jason.jy.lin\Desktop\自動點擊\AutoClick\bin\Debug\AutoClick.exe.config
+C:\Users\jason.jy.lin\Desktop\自動點擊\AutoClick\bin\Debug\AutoClick.exe
+C:\Users\jason.jy.lin\Desktop\自動點擊\AutoClick\bin\Debug\AutoClick.pdb
+C:\Users\jason.jy.lin\Desktop\自動點擊\AutoClick\obj\Debug\AutoClick.csproj.AssemblyReference.cache
+C:\Users\jason.jy.lin\Desktop\自動點擊\AutoClick\obj\Debug\MainWindow.g.cs
+C:\Users\jason.jy.lin\Desktop\自動點擊\AutoClick\obj\Debug\App.g.cs
+C:\Users\jason.jy.lin\Desktop\自動點擊\AutoClick\obj\Debug\AutoClick_MarkupCompile.cache
+C:\Users\jason.jy.lin\Desktop\自動點擊\AutoClick\obj\Debug\AutoClick_MarkupCompile.lref
+C:\Users\jason.jy.lin\Desktop\自動點擊\AutoClick\obj\Debug\MainWindow.baml
+C:\Users\jason.jy.lin\Desktop\自動點擊\AutoClick\obj\Debug\AutoClick.g.resources
+C:\Users\jason.jy.lin\Desktop\自動點擊\AutoClick\obj\Debug\AutoClick.Properties.Resources.resources
+C:\Users\jason.jy.lin\Desktop\自動點擊\AutoClick\obj\Debug\AutoClick.csproj.GenerateResource.cache
+C:\Users\jason.jy.lin\Desktop\自動點擊\AutoClick\obj\Debug\AutoClick.csproj.CoreCompileInputs.cache
+C:\Users\jason.jy.lin\Desktop\自動點擊\AutoClick\obj\Debug\AutoClick.exe
+C:\Users\jason.jy.lin\Desktop\自動點擊\AutoClick\obj\Debug\AutoClick.pdb

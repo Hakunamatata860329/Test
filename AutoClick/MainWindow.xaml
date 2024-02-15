@@ -1,0 +1,17 @@
+﻿<Window x:Class="AutoClick.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AutoClick"
+        mc:Ignorable="d"
+        Title="俗投小仙女專用" Height="450" Width="800">
+    <Grid>
+        <Button Content="按下 T 後點我" Margin="60,40,0,0" VerticalAlignment="Top" HorizontalAlignment="Left" Width="250" Height="160" Click="AutoClickButtonClick"/>
+        <Button Content="終止程式" Margin="480,40,0,0" VerticalAlignment="Top" HorizontalAlignment="Left" Width="250" Height="160" Click="StopClickButtonClick"/>
+        <TextBox x:Name="logTextBox" Margin="60,233,62,0" VerticalAlignment="Top" Height="150" IsReadOnly="True"/>
+        <AdornerDecorator>
+            <!-- Your existing UI elements here -->
+        </AdornerDecorator>
+    </Grid>
+</Window>
